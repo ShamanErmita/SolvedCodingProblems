@@ -3,6 +3,5 @@
 <p align="center">
 And enjoy 😀
 </p>
-<img src="![image](https://github.com/user-attachments/assets/21483a16-0471-4d4f-8de4-fcd1da9ddd6a)
-" width="100"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDdyMmd3aDZvMXExMTB3NWxtb2Q1YjRmemEzbm9tN2pqNHZvMDAybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ivF2qc6Dgnq7pTkdQ/giphy.gif" width="100"/>
 
