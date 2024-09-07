@@ -3,5 +3,5 @@
 <p align="center">
 And enjoy 😀
 </p>
-<iframe src="https://giphy.com/embed/l1J3MyrLOT5fJVW4U" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://giphy.com/embed/l1J3MyrLOT5fJVW4U" width="100"/>
 
